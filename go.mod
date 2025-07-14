@@ -1,4 +1,4 @@
-module github.com/nwa-red/discord-stealer
+module github.com/golanglibraries/functions
 
 go 1.21
 
